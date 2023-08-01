@@ -2,10 +2,16 @@
 A simple way to practice knowledge of the notes on the musical staff
 
 
+# Features
+- Practice your knowledge of musical notation on the 3 most popular clefs (Treble, Alto, Bass)
+- Compatibility with the Termux app
+- A simple and intuitive program
+  
+![Demo2](https://github.com/iJakub/Pocket-Staff/blob/main/demo/demo2.gif)
+
 # Demonstration
 
 ![Demo](https://github.com/iJakub/Pocket-Staff/blob/main/demo/demo.gif)
-![Demo2](https://github.com/iJakub/Pocket-Staff/blob/main/demo/demo2.gif)
 
 # Setup Windows
 Before running the program, make sure you have installed all the modules from the requirements.txt file
